@@ -1,0 +1,21 @@
+{
+  "name": "restify-passport",
+  "version": "0.0.1",
+  "description": "Compatibility middleware for restify to allow usage of passport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlmanning/restify-passport.git"
+  },
+  "author": "David Manning",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/dlmanning/restify-passport/issues"
+  },
+  "dependencies": {
+    "response-redirect": "0.0.1"
+  }
+}
